@@ -16,7 +16,7 @@ Welcome to JARVis! This project aims to assist blind or visually impaired indivi
 
 ## Introduction
 
-The Vision Aid Project is designed to provide real-time assistance to visually impaired individuals. It uses advanced technologies to recognize and describe scenes in front of the user, extract text from images, and answer user queries. The backend server is responsible for handling image recognition, text extraction, and natural language understanding, making it a vital part of the system.
+The Vision Aid Project is designed to provide real-time assistance to visually impaired individuals. It uses advanced technologies to recognize and describe scenes in front of the user, extract text from images, and answer user queries. The backend server is responsible for handling image recognition, text extraction, and natural language understanding, making it a vital part of the system. This project was submitted to Calhacks 2023 and was the most awarded project, with awards Hack for Health, Most Creative Use of GitHub, Best Use of Milvus https://devpost.com/software/jarvis-wbfx7n.
 
 ## How It Works
 
